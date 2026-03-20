@@ -1,4 +1,4 @@
-Widget Flotante Pomodoro PRO
+Widget Flotante Pomodoro
 Descripción del Proyecto
 
 El Widget Flotante Pomodoro es una aplicación desarrollada en Python con Tkinter que permite al usuario organizar tareas y gestionar sesiones de enfoque utilizando la técnica Pomodoro.
