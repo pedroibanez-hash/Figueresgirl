@@ -150,8 +150,8 @@ README.md
 imagen_diagrama_de_flujo
 
 Autores
-Thais Medina
-Pedro Ibanez
+Thais Medina,
+Pedro Ibanez y 
 Jesús Hernan
 
 Conclusión
@@ -160,4 +160,4 @@ Este proyecto demuestra la implementación completa de un sistema interactivo ba
 
 
 
-El resultado es una aplicación funcional que combina organización, control del tiempo y experiencia de usuari
+El resultado es una aplicación funcional que combina organización, control del tiempo y experiencia de usuario
