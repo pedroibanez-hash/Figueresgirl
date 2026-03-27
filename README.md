@@ -104,7 +104,8 @@ Usuario puede repetir el proceso
 
 O salir del sistema
 
-Pseudocódigo (Adaptado a implementación)
+Pseudocódigo (Adaptado a implementación).
+
 INICIO
 
 Crear lista tareas
