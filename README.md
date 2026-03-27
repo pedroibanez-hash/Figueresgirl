@@ -18,6 +18,13 @@ Integrantes
     - Pedro Ibanez
     - Jesús Hernan (c)
 
+<<<<<<< HEAD
+Presentación del Proyecto
+ Parte 1 – Thais Medina
+
+Diseño del Sistema y Experiencia del Usuario
+El sistema fue diseñado para ser intuitivo y fácil de usar, permitiendo al usuario interactuar mediante botones y entradas simples.
+
 Estructura del Programa
     Proyecto/
         main.py              -    lógica principal
@@ -30,6 +37,7 @@ Funcionamiento del Sistema
         Crear ventana con Tkinter
         Configurar widget flotante (always on top)
         Mostrar interfaz
+
 
     Usuario puede:
         - Agregar tarea
@@ -105,57 +113,6 @@ Pseudocódigo
 
                     SI hay tarea seleccionada
 
-
-
-
-                            tiempo_restante = tiempo * 60
-
-                            MIENTRAS tiempo_restante > 0
-                                Mostrar tiempo
-                                Esperar 1 segundo (after)
-                                tiempo_restante = tiempo_restante - 1
-                            FIN MIENTRAS
-
-                            Mostrar mensaje "Tiempo terminado"
-
-                        SINO
-                            Mostrar error
-                        FIN SI
-
-                    SINO
-                        Mostrar mensaje "Selecciona tarea"
-                    FIN SI
-
-                FIN SI
-
-            FIN SI
-
-            SI usuario presiona "Pausar"
-                Detener temporizador
-            FIN SI
-
-            SI usuario presiona "Completar"
-                Marcar tarea como completada
-                Iniciar descanso
-            FIN SI
-
-        FIN MIENTRAS
-
-    FIN
-
-Conceptos Aplicados
-    - Condicionales (if / else)
-    - Eventos de interfaz (botones)
-    - Temporizador con after()
-    - Manejo de listas y diccionarios
-    - Programación orientada a objetos
-    - Validación de datos del usuario
-
-Decisiones Técnicas
-    1. Uso de after() en lugar de while
-        Evita que la interfaz se congele
-
-
                         SI tiempo válido
 
                             tiempo_restante = tiempo * 60
@@ -204,7 +161,6 @@ Conceptos Aplicados
 Decisiones Técnicas
     1. Uso de after() en lugar de while
         Evita que la interfaz se congele
-
 
     2. Separación por clases
         Pomodoro -> datos
